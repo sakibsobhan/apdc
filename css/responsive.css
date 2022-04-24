@@ -1,0 +1,447 @@
+@media (min-width: 320px) and (max-width: 575px) {
+  .navbar-brand {
+    width: 48% !important;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .navbar-collapse {
+    text-align: center;
+    background: #000;
+    padding: 50px 0;
+  }
+  nav ul li {
+    margin: 5px 20px;
+  }
+  nav ul li a::before {
+    display: none;
+  }
+  .social-icon {
+    margin-top: 30px;
+  }
+  .navbar-nav .dropdown-menu {
+    text-align: center;
+  }
+  #banner-part .banner-slider .item .overlay {
+    padding: 0;
+    height: 50vh;
+  }
+  #banner-part .banner-slider .item .overlay .name h2 {
+    font-size: 40px;
+    left: 50%;
+    transform: translate(-50%);
+    bottom: -250px;
+  }
+  #banner-part .banner-slider .item .overlay .name span {
+    font-size: 40px;
+    left: 50%;
+    transform: translate(-50%);
+    bottom: -290px;
+  }
+  #about-part h3 {
+    font-size: 26px;
+  }
+  #about-part h3 .box {
+    width: 20px;
+    height: 20px;
+  }
+  #about-part .details .left {
+    padding: 17px;
+  }
+  #about-part .details .right {
+    padding: 15px;
+  }
+  #about-part .details .right p {
+    font-size: 14px;
+  }
+  #about-part .details .right .button {
+    display: flex;
+    justify-content: center;
+  }
+  #about-part .details .right .button a {
+    font-size: 15px;
+    padding: 10px 12px;
+  }
+  #product-part .product ul li {
+    margin: 5px;
+  }
+  #product-part h3 {
+    font-size: 26px;
+  }
+  #product-part h3 .box {
+    width: 20px;
+    height: 20px;
+  }
+  #product-part .products .item a h4{
+    font-size: 16px;
+  }
+
+  #vm-part {
+    margin: 100px 0;
+  }
+  #vm-part h3 {
+    font-size: 26px;
+  }
+  #vm-part h3 .box {
+    width: 20px;
+    height: 20px;
+  }
+  #vm-part .vm .details p {
+    font-size: 14px;
+  }
+  #vm-part .values p {
+    font-size: 14px;
+  }
+  #vm-part .values h4 {
+    font-size: 22px;
+  }
+  #testi-part h3 {
+    font-size: 26px;
+  }
+  footer .left img {
+    width: 50% !important;
+  }
+  footer .address img {
+    margin-top: 20px;
+    width: 15% !important;
+  }
+  footer .form {
+    padding: 0;
+    margin-top: 20px;
+  }
+  footer .form h3 {
+    font-size: 18px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  footer .form form input {
+    width: 100%;
+  }
+  footer .form form #Sender {
+    margin-left: 0;
+  }
+  footer .form h3 {
+    font-size: 22px;
+  }
+
+  footer .form form button {
+    margin-bottom: 30px;
+  }
+  #product-details-part .banner .overlay h3 {
+    font-size: 20px;
+    padding: 40px 0;
+  }
+  #product-details-part .item-list {
+    margin: 50px 0px;
+  }
+  #product-details-part .item-list .item p {
+    padding-left: 0;
+    margin-top: 15px;
+  }
+
+  #ontop a{
+    display: block;
+  }
+
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+  .navbar-brand {
+    width: 25% !important;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .navbar-collapse {
+    text-align: center;
+    background: #000;
+    padding: 50px 0;
+  }
+  nav ul li {
+    margin: 5px 20px;
+  }
+  nav ul li a::before {
+    display: none;
+  }
+  .social-icon {
+    margin-top: 30px;
+  }
+  .navbar-nav .dropdown-menu {
+    text-align: center;
+  }
+  #banner-part .banner-slider .item .overlay {
+    padding: 0;
+    height: 50vh;
+  }
+  #banner-part .banner-slider .item .overlay .name h2 {
+    font-size: 40px;
+    left: 50%;
+    transform: translate(-50%);
+    bottom: -250px;
+  }
+  #banner-part .banner-slider .item .overlay .name span {
+    font-size: 40px;
+    left: 50%;
+    transform: translate(-50%);
+    bottom: -290px;
+  }
+  #about-part h3 {
+    font-size: 26px;
+  }
+  #about-part h3 .box {
+    width: 20px;
+    height: 20px;
+  }
+  #about-part .details .left {
+    padding: 17px;
+  }
+  #about-part .details .right {
+    padding: 15px;
+  }
+  #about-part .details .right p {
+    font-size: 14px;
+  }
+  #about-part .details .right .button {
+    display: flex;
+    justify-content: center;
+  }
+  #about-part .details .right .button a {
+    font-size: 15px;
+    padding: 10px 12px;
+  }
+  #product-part .product ul li {
+    margin: 5px;
+  }
+  #product-part h3 {
+    font-size: 26px;
+  }
+  #product-part h3 .box {
+    width: 20px;
+    height: 20px;
+  }
+  #product-part .product ul li button {
+    font-size: 12px;
+  }
+  #product-part .product .tab-content .tab-pane a h3 {
+    font-size: 15px;
+  }
+  #vm-part h3 {
+    font-size: 26px;
+  }
+  #vm-part h3 .box {
+    width: 20px;
+    height: 20px;
+  }
+  #vm-part .vm .details p {
+    font-size: 14px;
+  }
+  #vm-part .values p {
+    font-size: 14px;
+  }
+  #vm-part .values h4 {
+    font-size: 22px;
+  }
+  #testi-part h3 {
+    font-size: 26px;
+  }
+  footer .left img {
+    width: 50% !important;
+  }
+  footer .address img {
+    margin-top: 20px;
+    width: 15% !important;
+  }
+  footer .form {
+    padding: 0;
+    margin-top: 20px;
+  }
+  footer .form h3 {
+    font-size: 18px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  footer .form form input {
+    width: 100%;
+  }
+  footer .form form #Sender {
+    margin-left: 0;
+  }
+  footer .form h3 {
+    font-size: 22px;
+  }
+  footer .form form button {
+    margin-bottom: 30px;
+  }
+  #product-details-part .banner .overlay h3 {
+    font-size: 20px;
+    padding: 40px 0;
+  }
+  #product-details-part .item-list {
+    margin: 50px 0px;
+  }
+  #product-details-part .item-list .item p {
+    padding-left: 0;
+    margin-top: 15px;
+  }
+
+  #ontop a{
+    display: block;
+  }
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .navbar-brand {
+    width: 25% !important;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .navbar-collapse {
+    text-align: center;
+    background: #000;
+    padding: 50px 0;
+  }
+  nav ul li {
+    margin: 5px 20px;
+  }
+  nav ul li a::before {
+    display: none;
+  }
+  .social-icon {
+    margin-top: 30px;
+  }
+  .navbar-nav .dropdown-menu {
+    text-align: center;
+  }
+  #banner-part .banner-slider .item .overlay {
+    padding: 0;
+    height: 50vh;
+  }
+  #banner-part .banner-slider .item .overlay .name h2 {
+    font-size: 40px;
+    left: 50%;
+    transform: translate(-50%);
+    bottom: -250px;
+
+  }
+  #banner-part .banner-slider .item .overlay .name span {
+    font-size: 40px;
+    left: 50%;
+    transform: translate(-50%);
+    bottom: -290px;
+  }
+  #banner-part .banner-slider .item .overlay .info h1 {
+    font-size: 30px;
+  }
+  #banner-part .banner-slider .item .overlay .info h3 {
+    font-size: 20px;
+  }
+  #banner-part .banner-slider .item .overlay .info .btn a {
+    font-size: 12px;
+    padding: 10px 12px !important;
+  }
+  #about-part h3 {
+    font-size: 26px;
+  }
+  #about-part h3 .box {
+    width: 20px;
+    height: 20px;
+  }
+  #about-part .details .left {
+    padding: 17px;
+  }
+  #about-part .details .right {
+    padding: 15px;
+  }
+  #about-part .details .right p {
+    font-size: 14px;
+  }
+  #about-part .details .right .button {
+    display: flex;
+    justify-content: center;
+  }
+  #about-part .details .right .button a {
+    font-size: 15px;
+    padding: 10px 12px;
+  }
+  #product-part .product ul li {
+    margin: 5px;
+  }
+  #product-part h3 {
+    font-size: 26px;
+  }
+  #product-part h3 .box {
+    width: 20px;
+    height: 20px;
+  }
+  #product-part .product ul li button {
+    font-size: 12px;
+  }
+  #product-part .product .tab-content .tab-pane a h3 {
+    font-size: 15px;
+  }
+  #vm-part h3 {
+    font-size: 26px;
+  }
+  #vm-part h3 .box {
+    width: 20px;
+    height: 20px;
+  }
+  #vm-part .vm .details p {
+    font-size: 14px;
+  }
+  #vm-part .values p {
+    font-size: 14px;
+  }
+  #vm-part .values h4 {
+    font-size: 22px;
+  }
+  #testi-part h3 {
+    font-size: 26px;
+  }
+  footer .left img {
+    width: 50% !important;
+  }
+  footer .address img {
+    margin-top: 20px;
+    width: 15% !important;
+  }
+  footer .form {
+    padding: 0;
+    margin-top: 20px;
+  }
+  footer .form h3 {
+    font-size: 18px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  footer .form form input {
+    width: 100%;
+  }
+  footer .form form #Sender {
+    margin-left: 0;
+  }
+  footer .form h3 {
+    font-size: 22px;
+  }
+  footer .form form button {
+    margin-bottom: 30px;
+  }
+  #product-details-part .banner .overlay h3 {
+    font-size: 20px;
+    padding: 40px 0;
+  }
+  #product-details-part .item-list {
+    margin: 50px 0px;
+  }
+  #product-details-part .item-list .item p {
+    padding-left: 0;
+    margin-top: 15px;
+  }
+
+  #ontop a{
+    display: block;
+  }
+
+}
